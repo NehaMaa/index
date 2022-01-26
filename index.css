@@ -1,0 +1,52 @@
+*{background-color:#03fcdf;
+    
+
+}
+
+
+
+body{
+    margin:40px ;
+    max-width:600px;
+}
+a{
+    color:crimson;
+}
+.A{color:rgb(153, 0, 255);}
+.N{color: crimson;}
+
+.VEDIO1{
+    display:flex;
+    margin:10px;
+    padding-left:10%;}
+.VEDIO2{
+    display:flex;
+    margin:10px;
+    padding-left:10%;
+
+}
+.image1{padding:20px;
+display: block;
+margin-left: 30pc;
+
+}
+.image2{padding:20px;
+display: block;
+margin-left:29pc;}
+.image3{padding:20px;
+    display: block;
+    margin-left: 30pc;}
+    
+.image4{padding:20px;
+         margin-left:30pc;
+        display: block; } 
+.MASK{margin-left: 40px;
+display: block;
+}   
+mark {background-color: rgb(177, 175, 39);
+     
+}  
+.table{
+    margin-left:15pc;
+    margin-right: auto;
+}
